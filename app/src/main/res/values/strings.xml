@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Game Info Storage</string>
+    <string name="button_addGameInfo">Add Game + Info</string>
+    <string name="hint_gameappTitle">Game Title</string>
+    <string name="hint_gameappDescription">Game Description</string>
+    <string name="hint_gameappSystem">Game System</string>
+    <string name="menu_addGameapp">Add</string>
+
+    <string-array name="gameappSystem_array">
+        <item>PS4</item>
+        <item>PC</item>
+        <item>X-BOX</item>
+        <item>SWITCH</item>
+    </string-array>
+</resources>
